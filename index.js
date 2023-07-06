@@ -1,5 +1,5 @@
 //1 task 
-//first variant
+//first solution
 const variable1=6;
 const variable2=-3;
 let result;
@@ -17,7 +17,7 @@ if (variable1 > 0 && variable2 > 0 || variable1 < 0 && variable2 < 0) {
 console.log(result);
 
 //1 task 
-//second variant
+//second solution
 const a = 10;
 const b = 2;
 let res;
@@ -37,7 +37,7 @@ if (a > 0 && b > 0 || a < 0 && b < 0) {
 console.log(res);
 
 //1 task
-//third variant
+//third solution
 const x = 0;
 const y = 0;
 let resultat;
