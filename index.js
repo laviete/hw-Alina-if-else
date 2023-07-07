@@ -35,7 +35,6 @@ console.log(result);
 
 //1 task
 //third solution
-
 if (variable1 === 0 && variable2 === 0) {
   result = NaN; // якщо обидва нулі - то покласти в результат NaN і вивести результат.
 } else if (variable1 === 0 || variable2 === 0) {
